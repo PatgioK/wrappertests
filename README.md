@@ -1,3 +1,6 @@
+wrapper tutorial from:
+https://www.digitalocean.com/community/tutorials/how-to-create-wrapper-components-in-react-with-props
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
